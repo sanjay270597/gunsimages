@@ -1,0 +1,22 @@
+<annotation>
+  <folder>D:\Projects\Weapon detetction\tknife</folder>
+  <filename>b1806.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>324</width>
+    <height>240</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>211</xmin>
+      <ymin>162</ymin>
+      <xmax>230</xmax>
+      <ymax>193</ymax>
+    </bndbox>
+  </object>
+</annotation>
