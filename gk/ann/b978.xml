@@ -1,0 +1,34 @@
+<annotation>
+  <folder>D:\Projects\Weapon detetction\tknife</folder>
+  <filename>b978.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>324</width>
+    <height>240</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>225</xmin>
+      <ymin>55</ymin>
+      <xmax>270</xmax>
+      <ymax>79</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>165</ymin>
+      <xmax>257</xmax>
+      <ymax>194</ymax>
+    </bndbox>
+  </object>
+</annotation>

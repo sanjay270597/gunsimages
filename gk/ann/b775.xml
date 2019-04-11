@@ -1,0 +1,22 @@
+<annotation>
+  <folder>D:\Projects\Weapon detetction\tknife</folder>
+  <filename>b775.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>324</width>
+    <height>240</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>205</xmin>
+      <ymin>164</ymin>
+      <xmax>243</xmax>
+      <ymax>203</ymax>
+    </bndbox>
+  </object>
+</annotation>
